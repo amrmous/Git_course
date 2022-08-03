@@ -17,7 +17,7 @@ int main()
 	employee arr[5];
 	aceept_data(arr, 5);
 	print_out_the_data(arr, 5);
-	//index index 
+	//index index     
 	return 0;
 }
 void aceept_data(employee arr[], int size)
